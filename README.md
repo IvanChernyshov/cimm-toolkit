@@ -1,6 +1,6 @@
 # Online Textbook on the Technical Aspects of Chemoinformatics
 
-Welcome to the repository containing the source code for an online textbook dedicated to the technical aspects of chemoinformatics and molecular modeling. This open-access resource is designed for master's students at ITMO University enrolled in the "Chemistry and Artificial Intelligence (https://en.itmo.ru/en/viewjep/2/108/Chemistry_and_Artificial_Intelligence.htm)" program. The content of this textbook is developed by the dedicated team at the "Center for AI in Chemistry (https://scamt.ifmo.ru/science/groups/center-or-artificial-intelligence-in-chemistry/)" at ITMO University.
+Welcome to the repository containing the source code for an online textbook dedicated to the technical aspects of chemoinformatics and molecular modeling. This open-access resource is designed for master's students at ITMO University enrolled in the [Chemistry and Artificial Intelligence](https://en.itmo.ru/en/viewjep/2/108/Chemistry_and_Artificial_Intelligence.htm) program. The content of this textbook is developed by the dedicated team at the [Center for AI in Chemistry](https://scamt.ifmo.ru/science/groups/center-or-artificial-intelligence-in-chemistry/) at ITMO University.
 
 
 ## What It Is
